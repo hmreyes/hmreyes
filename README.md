@@ -1,16 +1,23 @@
 ### Hi there 👋
+My name is Hernan, I'm from Argentina and I'm a SRE.
+* Currently working for [Fravega Tech](https://www.linkedin.com/company/fr%C3%A1vegatech/) as Team SRE.
 
-<!--
-**hmreyes/hmreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I or what do they say about me? 🤔
+* Pro-active
+* Responsible
+* I like team work
+* Really good at solving problems
+* Always ready to learn
 
-Here are some ideas to get you started:
+## Skills ⚡
+* Experience in Jenkins, CI/CD, Bitbucket, DevOps culture and good practices.
+* Good knowledge of Docker, Automatization and Scripting in Linux / Windows.
+* Managing projects since 2010.
+* Experience as a Functional Analyst in web technologies for 9 years.
+* Background in industries such as telecommunication, banking, automotive, retail and logistics.
+* Use of agile methodologies since 2010.
+* 7 years of experience in platform Mainframe (COBOL) as a Programmer, Analyst and Team Leader.
+* Working with SQL, DB2 and Oracle since 2003.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📫
+Find my resume on [LinkedIn](https://www.linkedin.com/in/hreyes/)
