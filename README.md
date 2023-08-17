@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Hernan, I'm from Argentina and I'm a SRE.
+I am Hernan, hailing from Argentina, and I specialize as a Site Reliability Engineer (SRE).
 
 * Currently working for [Fravega Tech](https://www.linkedin.com/company/fr%C3%A1vegatech/) as a Staff SRE.
 * I'm starting to study and test Terraform
@@ -8,7 +8,7 @@ My name is Hernan, I'm from Argentina and I'm a SRE.
 
 ## Who am I or what do they say about me? 🤔
 
-* Pro-active
+* Proactive
 * Responsible
 * I like team work
 * Really good at solving problems
@@ -30,4 +30,4 @@ My name is Hernan, I'm from Argentina and I'm a SRE.
 
 ## Contact 📫
 
-In my [LinkedIn](https://www.linkedin.com/in/hreyes/) profile you will find my resume, email and phone
+On my [LinkedIn](https://www.linkedin.com/in/hreyes/) profile you'll discover my resume, email, and phone number.
